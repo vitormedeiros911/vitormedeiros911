@@ -16,7 +16,7 @@ or you can add me and text me in the [![Linkedin Badge](https://img.shields.io/b
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormedeiros911&hide=html&layout=compact&theme=dracula" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitormedeiros911&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitormedeiros911&theme=dracula" /></td>
   </tr>  
 </table>
 </center>
