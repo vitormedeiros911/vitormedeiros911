@@ -1,4 +1,4 @@
-🇺🇸
+
 ## Hello World 👋
 
 ### Be welcome to my profile 😁
