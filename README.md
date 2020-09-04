@@ -20,3 +20,5 @@ or you can add me and text me in the [![Linkedin Badge](https://img.shields.io/b
   </tr>  
 </table>
 </center>
+
+![](https://komarev.com/ghpvc/?username=vitormedeiros911&color=7d02ba)
