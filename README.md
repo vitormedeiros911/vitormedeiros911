@@ -7,4 +7,4 @@ My name is Vitor Medeiros and I'm from Brazil (🇧🇷). I'am Software engineer
 
 ____
 
-(https://github-readme-stats.vercel.app/api?username=vitormedeiros911&theme=dark&show_icons=true&count_private=true)](https://github.com/vitormedeiros911)
+[![Vitor Medeiros's github stats](https://github-readme-stats.vercel.app/api?username=vitormedeiros911&theme=dark&show_icons=true&count_private=true)](https://github.com/vitormedeiros911)
